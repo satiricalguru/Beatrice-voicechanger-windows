@@ -8,17 +8,19 @@
 
 ### Real-Time AI Voice Changer for macOS
 
-[![Version](https://img.shields.io/badge/version-2.0.0-brightgreen?style=for-the-badge)](https://github.com/satiricalguru/Beatrice-voicechanger/releases/tag/v2.0.0)
-[![macOS](https://img.shields.io/badge/macOS-12%2B-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/satiricalguru/Beatrice-voicechanger/releases)
-[![Electron](https://img.shields.io/badge/Electron-30-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
-[![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/satiricalguru/BeatriceVST-voicechanger?style=for-the-badge&color=ffd700&logo=github)](https://github.com/satiricalguru/BeatriceVST-voicechanger/stargazers)
+[![Version](https://img.shields.io/badge/version-2.0.0-brightgreen?style=for-the-badge)](https://github.com/satiricalguru/BeatriceVST-voicechanger/releases)
+[![macOS](https://img.shields.io/badge/macOS-12%2B-black?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/satiricalguru/BeatriceVST-voicechanger)
+[![Latency](https://img.shields.io/badge/Latency-~10ms%20Ultra--Low-brightgreen?style=for-the-badge)](https://github.com/satiricalguru/BeatriceVST-voicechanger)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
 **Morph your voice in real-time** with AI-powered neural voice conversion — powered by the Beatrice 2.0.0 DSP engine, achieving sub-10ms latency across 112+ built-in voices.
 
-[📥 Download v2.0.0](https://github.com/satiricalguru/Beatrice-voicechanger/releases/tag/v2.0.0) · [🪟 Windows Version](https://github.com/satiricalguru/BeatriceVST-voicechanger.git) · [🐛 Report Bug](https://github.com/satiricalguru/Beatrice-voicechanger/issues)
+[📥 Download v2.0.0](https://github.com/satiricalguru/BeatriceVST-voicechanger/releases) · [🐛 Report Bug](https://github.com/satiricalguru/BeatriceVST-voicechanger/issues)
 
 </div>
+
+> 🌟 **Enjoying Beatrice? If this tool is useful to you, please consider giving it a star ⭐! Every star helps support open-source development.**
 
 ---
 
