@@ -4,10 +4,10 @@
   "description": "Real-time AI voice changer powered by the Beatrice DSP engine and JVS corpus speakers",
   "main": "main.js",
   "author": "Jatin Pandey <satiricalguru>",
-  "homepage": "https://github.com/satiricalguru/beatrice-voicechanger",
+  "homepage": "https://github.com/satiricalguru/Beatrice-voicechanger-windows",
   "repository": {
     "type": "git",
-    "url": "https://github.com/satiricalguru/beatrice-voicechanger.git"
+    "url": "https://github.com/satiricalguru/Beatrice-voicechanger-windows.git"
   },
   "scripts": {
     "start": "electron .",
